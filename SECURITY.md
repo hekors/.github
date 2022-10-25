@@ -1,0 +1,1 @@
+In case you do not want to publicly report a security issue for one of the repositories owned by the HEKORS Community, write an email with a detailed description of the issue to yashsehgal.work@gmail.com.

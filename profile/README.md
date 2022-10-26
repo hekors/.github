@@ -13,7 +13,7 @@ HEKORS is a warm and inclusive community, always filled with people who are supe
 
 ## ✅ Join HEKORS Community
 
-To get involved with our community, please make sure you're familiar with the community's [Code of Conduct](../CODE_OF_CONDUCT.md).
+To get involved with our community, please make sure you're familiar with the community's [Code of Conduct](/CODE_OF_CONDUCT.md).
 
 We're a community of people who're into tech or want to get into tech in all the ways possible. If you love to teach people what you know and sharing your experiences with others, We have been waiting for you to join us. To communicate with the team members and the community, there are multiple ways:
 

@@ -1,6 +1,6 @@
 # Becoming an Avenger at HEKORS
 
-<img src="/assets/hekors-avengers-banner.jpg" 
+<img src="/assets/hekors-avenger-banner.jpg" 
     alt="open-volunteer-roles-banner" style="" />
 
 Want to explore multiple domains together, excited to meet a bunch of people from different cultures, domains and experiences. We at HEKORS have created a specific role for you people. An AVENGER is a person who's socially active, exciting and having experiences to share + with one of the skill sets that's going to help the community's initiatives.

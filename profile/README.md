@@ -21,3 +21,15 @@ We're a community of people who're into tech or want to get into tech in all the
 All the updates regarding upcoming sessions, events, hackathons, meetups & etc., will be posted in `#announcements` channel.
 
 - **Following us on Twitter:** [Follow us on Twitter 💙](https://twitter.com/hekorscommunity) and get in touch of all the announcements and stuff we post online.
+
+## 🚀 Contribute to HEKORS
+
+There are multiple ways of contributing to HEKORS Community, all in terms of code, no-code and community management.
+
+- **Contributing to the community:** Contribute to the community by sharing about HEKORS, Reaching out to us in order to take sessions, collaborate with us and organize an event, or simply being active and supportive in the community.
+
+- **Contributing to our Initiatives:**
+
+- **Becoming a Community Manager:**
+
+- **Liked what we're doing? You can sponsor us too:**

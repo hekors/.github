@@ -8,3 +8,4 @@
 - [Apply as a **Designer** Volunteer](https://form.typeform.com/to/LcqR1P0o)
 - Apply as a **Frontend Developer** Volunteer
 - Apply as a **Backend Developer** Volunteer
+- Apply as a **Content Writing** Volunteer

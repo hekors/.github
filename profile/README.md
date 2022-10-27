@@ -28,7 +28,7 @@ There are multiple ways of contributing to HEKORS Community, all in terms of cod
 
 - **Contributing to the community:** Contribute to the community by sharing about HEKORS, Reaching out to us in order to take sessions, collaborate with us and organize an event, or simply being active and supportive in the community.
 
-- **Contributing to our Initiatives:** You can help HEKORS to build better projects, design better visuals and create better content. If creating and building stuff excites you, check the [open volunteer roles](./volunteer-roles.md) we have opened for you.
+- **Contributing to our Initiatives:** You can help HEKORS to build better projects, design better visuals and create better content. If creating and building stuff excites you, check the [open volunteer roles](/profile/volunteer-roles.md) we have opened for you.
 
 - **Becoming a Community Manager:**
 

@@ -37,4 +37,4 @@ There are multiple ways of contributing to HEKORS Community, all in terms of cod
 ## 💕 Be in touch with HEKORS
 
 [![discord-logo](/assets/discord-icon.svg)](https://discord.gg/eqYJgB8A57)
-[![twitter-logo](/assets/twitter-icon.svg)](https://discord.gg/eqYJgB8A57)
+[![twitter-logo](/assets/twitter-icon.svg)](https://twitter.com/hekorscommunity)

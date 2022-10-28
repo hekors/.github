@@ -39,3 +39,4 @@ There are multiple ways of contributing to HEKORS Community, all in terms of cod
 [![discord-logo](/assets/discord-icon.svg)](https://discord.gg/eqYJgB8A57)
 [![twitter-logo](/assets/twitter-icon.svg)](https://twitter.com/hekorscommunity)
 [![buy-me-a-coffee-logo](/assets/bmac-icon.svg)](https://buymeacoffee.com/yashsehgal)
+[![whatsapp-logo](/assets/whatsapp-icon.svg)](https://chat.whatsapp.com/GjIdIUYccWd1J6kWDEtxTB)

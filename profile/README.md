@@ -30,6 +30,6 @@ There are multiple ways of contributing to HEKORS Community, all in terms of cod
 
 - **Contributing to our Initiatives:** You can help HEKORS to build better projects, design better visuals and create better content. If creating and building stuff excites you, check the [open volunteer roles](/profile/volunteer-roles.md) we have opened for you.
 
-- **Becoming a Community Manager:**
+- **Becoming a Community Manager:** A Community Manager supports the community in all the ways possible, if you feel to build HEKORS in terms of community, then you can go through the [community manager guide](/profile/hekors-community-manager.md) and get started 🚀
 
-- **Liked what we're doing? You can sponsor us too:**
+- **Liked what we're doing? You can sponsor us too:** Sponsoring feature will be coming soon 🚧

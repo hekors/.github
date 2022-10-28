@@ -33,3 +33,8 @@ There are multiple ways of contributing to HEKORS Community, all in terms of cod
 - **Becoming a Community Manager:** A Community Manager supports the community in all the ways possible, if you feel to build HEKORS in terms of community, then you can go through the [community manager guide](/profile/hekors-community-manager.md) and get started 🚀
 
 - **Liked what we're doing? You can sponsor us too:** Sponsoring feature will be coming soon 🚧
+
+## 💕 Be in touch with HEKORS
+
+[![discord-logo](/assets/discord-icon.svg)](https://discord.gg/eqYJgB8A57)
+[![twitter-logo](/assets/twitter-icon.svg)](https://discord.gg/eqYJgB8A57)

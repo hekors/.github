@@ -41,3 +41,4 @@ There are multiple ways of contributing to HEKORS Community, all in terms of cod
 [![buy-me-a-coffee-logo](/assets/bmac-icon.svg)](https://www.buymeacoffee.com/wh0sumit)
 [![whatsapp-logo](/assets/whatsapp-icon.svg)](https://chat.whatsapp.com/GjIdIUYccWd1J6kWDEtxTB)
 [![notion-logo](/assets/notion-icon.svg)](https://www.notion.so/yashsehgal/HEKORS-Community-Updates-dd27307cb56d4e0d87efad9983e3329c)
+[![luma-logo](/assets/luma-icon.svg)](https://lu.ma/hekors)

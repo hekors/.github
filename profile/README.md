@@ -7,7 +7,7 @@
 
 Welcome to [HEKORS Community's](https://hekors.tech) GitHub. A community of Hackers, Builders and People in Tech.
 
-We are actively advocating Hackathons, Open Source & Engineering for people. Making sure everyone is getting up-to-date knowledge from the world of tech and being an active part of the community and contributing back 🚀
+We are actively advocating Hackathons, Open Source & Engineering for people. Making certain that everyone has up-to-date knowledge from the world of technology, as well as being an active member of the community and contributing back 🚀
 
 HEKORS is a warm and inclusive community, always filled with people who are super active in community and really good in their work, in respective disciplines.
 
@@ -15,24 +15,25 @@ HEKORS is a warm and inclusive community, always filled with people who are supe
 
 To get involved with our community, please make sure you're familiar with the community's [Code of Conduct](/CODE_OF_CONDUCT.md).
 
-We're a community of people who're into tech or want to get into tech in all the ways possible. If you love to teach people what you know and sharing your experiences with others, We have been waiting for you to join us. To communicate with the team members and the community, there are multiple ways:
+We're a community of people who're into tech or want to get into tech in all the ways possible. If you enjoy sharing what you know and your experiences with others, We have been waiting for you to join us. To communicate with the team members and the community, there are several ways:
 
-- **Join our Discord Server:** [Join our Discord Server 💬](https://discord.gg/eaKfJNqQ). Once you've joined the server, make sure you say hello 👋 to the community members, you should also start by introducing yourself in `#introduce-yourself` channel in the server. Just start by interacting with peopole. <br /><br />
-All the updates regarding upcoming sessions, events, hackathons, meetups & etc., will be posted in `#announcements` channel.
+- **Join our Discord Server:** [Join our Discord Server 💬](https://discord.gg/eaKfJNqQ). Once you've joined the server, make sure you say hello 👋 to the community members, Also, begin by introducing yourself in the `#introduce-yourself` channel. Simply engage in social interaction with others. 
 
-- **Following us on Twitter:** [Follow us on Twitter 💙](https://twitter.com/hekorscommunity) and get in touch of all the announcements and stuff we post online.
+    Information on all forthcoming seminars, events, hackathons, meetings, and so on which will be posted in                  `#announcements` channel.
+
+- **Following us on Twitter:** [Follow us on Twitter 💙](https://twitter.com/hekorscommunity) to stay up to date on all of the announcements and other content we post online.
 
 ## 🚀 Contribute to HEKORS
 
-There are multiple ways of contributing to HEKORS Community, all in terms of code, no-code and community management.
+The HEKORS Community accepts contributions in a variety of forms, including coding, non-coding, and Community management.
 
-- **Contributing to the community:** Contribute to the community by sharing about HEKORS, Reaching out to us in order to take sessions, collaborate with us and organize an event, or simply being active and supportive in the community.
+- **Contributing to the community:** Contribute to the community by sharing about HEKORS, get in touch with us to attend sessions, work with us to plan an event, or just be involved and supportive in the community.
 
-- **Contributing to our Initiatives:** You can help HEKORS to build better projects, design better visuals and create better content. If creating and building stuff excites you, check the [open volunteer roles](/profile/volunteer-roles.md) we have opened for you.
+- **Contributing to our Initiatives:** You can assist HEKORS to build better projects, design better visual designs and create better content. If creating and building stuff excites you, Check out the [open volunteer roles](/profile/volunteer-roles.md) we have available for you.
 
-- **Becoming a Community Manager:** A Community Manager supports the community in all the ways possible, if you feel to build HEKORS in terms of community, then you can go through the [community manager guide](/profile/hekors-community-manager.md) and get started 🚀
+- **Becoming a Community Manager:** A Community Manager supports the community in all the ways possible, If you want to help build the HEKORS community, you can read the [community manager guide](/profile/hekors-community-manager.md) and get started 🚀
 
-- **Liked what we're doing? You can sponsor us too:** Sponsoring feature will be coming soon 🚧
+- **Do you like what we're doing? You can also sponsor us:** A sponsoring feature will be added soon.🚧
 
 ## 💕 Be in touch with HEKORS
 

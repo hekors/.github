@@ -8,7 +8,7 @@
 
 - Apply as a **Graphic Designer** Volunteer
 
-##### [Apply here](https://form.typeform.com/to/LcqR1P0o) or you can directly text us on twitter :[@hekorscommunity](https://twitter.com/hekorscommunity) 🧡
+##### [Apply here](https://tally.so/r/w2a8xg) or you can directly text us on twitter :[@hekorscommunity](https://twitter.com/hekorscommunity) 🧡
 
 ---
 
